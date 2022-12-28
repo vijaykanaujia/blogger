@@ -1,0 +1,19 @@
+{
+    "name": "thoughtsole/blogger",
+    "type": "project",
+    "require": {
+        "smarty/smarty": "^4.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thoughtsole\\Blogger\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vijay kanaujia"
+        }
+    ],
+    "minimum-stability": "dev"
+}
